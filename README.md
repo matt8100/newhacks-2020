@@ -6,7 +6,7 @@ A web-app that allows users to perform keyword-search through their course pages
 
 ## Resources used
 
-- Python 3.9.0
+- Python 3.8.x
 - [Canvas LMS API](https://canvas.instructure.com/doc/api/)
 - [CanvasAPI Python Library](https://github.com/ucfopen/canvasapi)
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
